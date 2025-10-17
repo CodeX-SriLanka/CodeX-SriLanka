@@ -56,7 +56,7 @@
 ## 📊 Stats
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeX-SriLanka&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeX-SriLanka&theme=dark" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect with Me
