@@ -1,4 +1,5 @@
-# 👋 Hi, I'm [Kawdhitha Nirmal](https://dev.sapelaweddo.site)
+#  Hi, I'm [Kawdhitha Nirmal](https://www.kawditha.dev) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/TecnoDeVolper2008/TecnoDeVolper2008/refs/heads/main/Gif/Ghost.gif" width="200" alt="Developer Animation">
 </div>
@@ -6,7 +7,7 @@
 - 💻 Full-Stack Developer & AI Enthusiast
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me at **codexsldev@gmail.com**
-- 👨‍💻 Check out my portfolio at [dev.sapelaweddo](https://dev.sapelaweddo.site)
+- 👨‍💻 Check out my portfolio at [kawditha.dev](https://www.kawditha.dev)
 - ⚡ Fun fact: I love turning ideas into code that serves thousands of users!
 
 ## 🛠️ Languages and Tools
@@ -56,7 +57,7 @@
 ## 📊 Stats
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeX-SriLanka&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAWDHITHA-NIRMAL&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect with Me
@@ -73,7 +74,21 @@
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://whatsapp.com/channel/0029VatTpZU7oQhkw1WbZS0B" target="_blank"><img src="https://social-card.kawwa.site/api?channellink=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VatTpZU7oQhkw1WbZS0B&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png" alt="CodeX Developers" style="width: 300px; max-width: 100%; height: auto;" /></a>
-  <a href="https://t.me/codex_developer" target="_blank"><img src="https://social-card.kawwa.site/api/telegram?username=codex_developer&theme=dark&overrideVerified=true&overrideVerifiedIcon=https%3A%2F%2Fstatic.whatsapp.net%2Frsrc.php%2Fv4%2FyM%2Fr%2FSGDtYg_EYce.png" alt="CodeX Developers tg" style="width: 300px; max-width: 100%; height: auto;" /></a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; line-height: 0;">
+
+  <a href="https://whatsapp.com/channel/0029VatTpZU7oQhkw1WbZS0B" target="_blank">
+    <img src="https://social-card-codex.vercel.app/api?channellink=https://whatsapp.com/channel/0029VatTpZU7oQhkw1WbZS0B&theme=dark&overrideVerified=true&overrideVerifiedIcon=https://static.whatsapp.net/rsrc.php/v4/yM/r/SGDtYg_EYce.png&fontFamily=system-ui"
+    style="width:300px; display:block;" />
+  </a>
+
+  <a href="https://t.me/codex_developer" target="_blank">
+    <img src="https://social-card-codex.vercel.app/api/telegram?username=codex_developer&theme=dark&overrideVerified=true&overrideVerifiedIcon=https://static.whatsapp.net/rsrc.php/v4/yM/r/SGDtYg_EYce.png&fontFamily=system-ui"
+    style="width:300px; display:block;" />
+  </a>
+
+  <a href="https://whatsapp.com/channel/0029Va5ErMS2phHGA9yWn12X" target="_blank">
+    <img src="https://social-card-codex.vercel.app/api?channellink=https://whatsapp.com/channel/0029Va5ErMS2phHGA9yWn12X&theme=dark&overrideVerified=true&overrideVerifiedIcon=https://static.whatsapp.net/rsrc.php/v4/yM/r/SGDtYg_EYce.png&fontFamily=system-ui"
+    style="width:300px; display:block;" />
+  </a>
+
 </div>
